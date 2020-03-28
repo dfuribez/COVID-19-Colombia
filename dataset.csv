@@ -349,7 +349,7 @@ id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
 348,24/03/2020,Cali,Valle,En Casa,30 a 39,F,Importado,Estados Unidos
 349,24/03/2020,Cali,Valle,En Casa,30 a 39,F,Relacionado,Colombia
 350,24/03/2020,Fusagasugá,Cundinamarca,En Casa,50 a 59,M,Importado,Turquía
-351,24/03/2020,Sopó,Cundinamarca,Hospital,50 a 59,M,En estudio,Colombia
+351,24/03/2020,La Calera,Cundinamarca,Hospital,50 a 59,M,En estudio,Colombia
 352,24/03/2020,Villeta,Cundinamarca,En Casa,30 a 39,M,Importado,España
 353,24/03/2020,Palermo,Huila,En Casa,40 a 49,M,Importado,Ecuador
 354,24/03/2020,San Pedro,Valle,En Casa,20 a 29,F,Relacionado,Colombia
@@ -450,8 +450,8 @@ id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
 449,25/03/2020,Popayán,Cauca,En Casa,40 a 49,M,Relacionado,Colombia
 450,25/03/2020,Medellín,Antioquia,En Casa,20 a 29,F,Relacionado,Colombia
 451,25/03/2020,Bucaramanga,Santander,En Casa,30 a 39,F,Importado,México
-452,25/03/2020,Bogotá,Antioquia,En Casa,40 a 49,F,Importado,España
-453,25/03/2020,Bogotá,Caldas,En Casa,20 a 29,F,Relacionado,Colombia
+452,25/03/2020,Bello,Antioquia,En Casa,40 a 49,F,Importado,España
+453,25/03/2020,Manizales,Caldas,En Casa,20 a 29,F,Relacionado,Colombia
 454,25/03/2020,Bogotá,Bogotá,En Casa,50 a 59,F,Importado,España
 455,25/03/2020,Cali,Valle,En Casa,30 a 39,F,Importado,Estados Unidos
 456,25/03/2020,Palmira,Valle,En Casa,50 a 59,M,Relacionado,Colombia
@@ -538,3 +538,72 @@ id,fecha,ciudad,departamento,atencion,edad,sexo,caso,origen
 537,27/03/2020,Armenia,Quindío,En Casa,30 a 39,F,Relacionado,Colombia
 538,27/03/2020,Santa Marta,Santa Marta,En Casa,60 a 69,F,Relacionado,Colombia
 539,27/03/2020,Manizales,Caldas,En Casa,80 a 89,M,Relacionado,Colombia
+540,28/03/2020,Mosquera,Cundinamarca,En Casa,30 a 39,M,Importado,Egipto
+541,28/03/2020,Cali,Valle,En Casa,50 a 59,F,Relacionado,Colombia
+542,28/03/2020,Cali,Valle,En Casa,30 a 39,M,Importado,Costa Rica
+543,28/03/2020,Cali,Valle,Hospital,50 a 59,M,En estudio,Colombia
+544,28/03/2020,Cali,Valle,En Casa,20 a 29,F,Relacionado,Colombia
+545,28/03/2020,Cali,Valle,En Casa,0 a 9,M,Relacionado,Colombia
+546,28/03/2020,Palmira,Valle,En Casa,60 a 69,F,Relacionado,Colombia
+547,28/03/2020,Bogotá,Bogotá,En Casa,20 a 29,F,Importado,España
+548,28/03/2020,Pasto,Nariño,En Casa,50 a 59,M,Importado,México
+549,28/03/2020,Valledupar,Cesar,En Casa,10 a 19,F,Importado,Reino Unido
+550,28/03/2020,Polonuevo,Atlántico,En Casa,10 a 19,M,En estudio,Colombia
+551,28/03/2020,Bogotá,Bogotá,En Casa,20 a 29,M,En estudio,Colombia
+552,28/03/2020,Bogotá,Bogotá,Hospital,40 a 49,M,En estudio,Colombia
+553,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,Importado,Ecuador
+554,28/03/2020,Bogotá,Bogotá,En Casa,40 a 49,M,En estudio,Colombia
+555,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,Importado,Ecuador
+556,28/03/2020,Bogotá,Bogotá,En Casa,40 a 49,M,Importado,México
+557,28/03/2020,Bogotá,Bogotá,En Casa,80 a 89,F,En estudio,Colombia
+558,28/03/2020,Bogotá,Bogotá,En Casa,40 a 49,M,Importado,Jamaica
+559,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,M,En estudio,Colombia
+560,28/03/2020,Bogotá,Bogotá,Hospital Uci,50 a 59,F,En estudio,Colombia
+561,28/03/2020,Bogotá,Bogotá,Hospital Uci,40 a 49,M,En estudio,Colombia
+562,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,F,Relacionado,Colombia
+563,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,En estudio,Colombia
+564,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,En estudio,Colombia
+565,28/03/2020,Bogotá,Bogotá,En Casa,60 a 69,F,En estudio,Colombia
+566,28/03/2020,Bogotá,Bogotá,Hospital Uci,40 a 49,F,En estudio,Colombia
+567,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,En estudio,Colombia
+568,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,En estudio,Colombia
+569,28/03/2020,Bogotá,Bogotá,Hospital,50 a 59,F,En estudio,Colombia
+570,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,En estudio,Colombia
+571,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,M,En estudio,Colombia
+572,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,F,En estudio,Colombia
+573,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,Importado,Cuba
+574,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,En estudio,Colombia
+575,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,Importado,España
+576,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,Importado,Europa
+577,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,En estudio,Colombia
+578,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,Importado,España
+579,28/03/2020,Bogotá,Bogotá,En Casa,60 a 69,F,Importado,Estados Unidos
+580,28/03/2020,Bogotá,Bogotá,En Casa,40 a 49,M,En estudio,Colombia
+581,28/03/2020,Bogotá,Bogotá,En Casa,20 a 29,M,En estudio,Colombia
+582,28/03/2020,Bogotá,Bogotá,En Casa,60 a 69,M,En estudio,Colombia
+583,28/03/2020,Bogotá,Bogotá,Hospital,30 a 39,M,En estudio,Colombia
+584,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,Importado,México
+585,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,F,En estudio,Colombia
+586,28/03/2020,Bogotá,Bogotá,Hospital,60 a 69,F,Importado,"Jamaica, Islas Caimán, Panamá"
+587,28/03/2020,Bogotá,Bogotá,Hospital Uci,60 a 69,F,En estudio,Colombia
+588,28/03/2020,Bogotá,Bogotá,En Casa,30 a 39,M,En estudio,Colombia
+589,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,F,Importado,España
+590,28/03/2020,Bogotá,Bogotá,En Casa,50 a 59,M,Importado,España
+591,28/03/2020,Cali,Valle,En Casa,20 a 29,F,Relacionado,Colombia
+592,28/03/2020,Buenaventura,Valle,Hospital,70 a 79,M,En estudio,Colombia
+593,28/03/2020,Cali,Valle,En Casa,40 a 49,F,Importado,España
+594,28/03/2020,Cali,Valle,Hospital,20 a 29,M,En estudio,Colombia
+595,28/03/2020,Medellín,Antioquia,En Casa,20 a 29,F,Importado,Estados Unidos
+596,28/03/2020,Montebello,Antioquia,En Casa,50 a 59,F,Importado,Panamá
+597,28/03/2020,Medellín,Antioquia,En Casa,20 a 29,M,Importado,Alemania
+598,28/03/2020,Medellín,Antioquia,En Casa,20 a 29,F,Importado,Estados Unidos
+599,28/03/2020,Medellín,Antioquia,En Casa,30 a 39,F,Importado,Estados Unidos
+600,28/03/2020,Chinchina,Caldas,En Casa,20 a 29,M,Relacionado,Colombia
+601,28/03/2020,Armenia,Quindío,En Casa,50 a 59,M,Importado,Estados Unidos
+602,28/03/2020,Medellín,Antioquia,En Casa,40 a 49,F,Importado,España
+603,28/03/2020,Santa Rosa de Oso,Antioquia,En Casa,50 a 59,M,Importado,Jamaica
+604,28/03/2020,Barranquilla,Barranquilla,En Casa,50 a 59,M,Relacionado,Colombia
+605,28/03/2020,Barranquilla,Barranquilla,En Casa,30 a 39,F,Relacionado,Colombia
+606,28/03/2020,Turbaco,Bolívar,En Casa,50 a 59,M,Relacionado,Colombia
+607,28/03/2020,Cartagena,Cartagena,En Casa,30 a 39,M,Relacionado,Colombia
+608,28/03/2020,Barranquilla,Barranquilla,En Casa,40 a 49,M,Importado,España
