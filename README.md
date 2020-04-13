@@ -14,3 +14,5 @@ Columnas:
 * `casos_nuevos`: Casos nuevos presentados en ese día
 * `casos_activos`: Casos activos hasta ese día: totales - muertes - recuperados
 * `recuperados`: Número de recuperados hasta ese día
+* `hospitalizados`: Total de hospitalizados (Hospital + UCI)
+* `uci`: Total de pacientes en UCI
