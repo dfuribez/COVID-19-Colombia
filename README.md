@@ -1,18 +1,24 @@
 # COVID-19-Colombia
 
 ## dataset.csv
-Datos tal cual reportados por el INS Colombia
+Datos reportados por el INS Colombia https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx y publicados en datos.gov.co
 
 ## time_series.csv
 
 Columnas:
 
-* `fecha`: Fecha del caso reportado por el INS
-* `muertes`: Número de muertes presentadas hasta ese día
-* `total`: Total de casos confirmados hasta ese día
+* `fecha`: Fecha de diagnóstico
 * `dia`: Día desde el paciente cero
-* `casos_nuevos`: Casos nuevos presentados en ese día
-* `casos_activos`: Casos activos hasta ese día: totales - muertes - recuperados
-* `recuperados`: Número de recuperados hasta ese día
-* `hospitalizados`: Total de hospitalizados (Hospital + UCI)
-* `uci`: Total de pacientes en UCI
+* `nuevos`: Número casos confirmados ese día
+* `muertes`: Número de muertes reportadas ese día
+* `recuperados`: Número de recuperados reportados ese día
+* `muertes acumuladas`: Total de muertes acumuladas hasta ese día
+* `recuperaciones acumuladas`: Total de recuperaciones acumuladas hasta ese día
+* `casos acumulados`: Total acumulado de casos confirmados hasta ese día
+* `uci`: Total de pacientes en UCI hasta ese día
+
+Los datos faltantes se expresan como -1
+
+
+## Licence
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
