@@ -1,5 +1,9 @@
 # COVID-19-Colombia
 
+<p align="center">
+  <img src="https://github.com/dfuribez/COVID-19-Colombia/raw/master/now.png">
+</p>
+
 ## dataset.csv
 Datos reportados por el INS Colombia https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx y publicados en datos.gov.co
 
