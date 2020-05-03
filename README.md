@@ -11,17 +11,22 @@ Datos reportados por el INS Colombia https://www.ins.gov.co/Noticias/Paginas/Cor
 
 Columnas:
 
-* `fecha`: Fecha de diagnóstico
-* `dia`: Día desde el paciente cero
-* `nuevos`: Número casos confirmados ese día
-* `muertes`: Número de muertes reportadas ese día
-* `recuperados`: Número de recuperados reportados ese día
-* `muertes acumuladas`: Total de muertes acumuladas hasta ese día
-* `recuperaciones acumuladas`: Total de recuperaciones acumuladas hasta ese día
-* `casos acumulados`: Total acumulado de casos confirmados hasta ese día
-* `uci`: Total de pacientes en UCI hasta ese día
+* `fecha`: Fecha de diagnóstico*
+* `dia`: Día desde el paciente cero*
+* `nuevos`: Número casos confirmados ese día*
+* `muertes`: Número de muertes reportadas ese día*
+* `recuperados`: Número de recuperados reportados ese día*
+* `muertes acumuladas`: Total de muertes acumuladas hasta ese día*
+* `recuperaciones acumuladas`: Total de recuperaciones acumuladas hasta ese día*
+* `casos acumulados`: Total acumulado de casos confirmados hasta ese día*
+* `uci`: Total de pacientes en UCI hasta ese día*
+* `tests`: Total de tests realizados hasta ese día**
 
 Los datos faltantes se expresan como -1
+
+\* Datos calculados a partir del dataset en datos.gov.co por lo que las cifras pueden diferir de las reportadas por el Ministerio de Salud<br>
+\** Datos tomados día a día de la página del INS
+
 
 
 ## License
